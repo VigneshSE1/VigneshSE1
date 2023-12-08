@@ -1,4 +1,4 @@
-## Hi there, I'm Vigneshwaran M! 👋
+## Hi there, I'm Vigneshwaran! 👋
 
 I'm a Software Engineer with a passion for creating robust web and mobile applications. I specialize in both backend and frontend technologies, and I love diving into cloud architectures.
 
