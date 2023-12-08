@@ -1,6 +1,6 @@
 ## Hi there, I'm Vigneshwaran M! 👋
 
-I'm a Software Engineer with a passion for creating robust web and mobile applications. I specialize in both backend and frontend technologies, and I love diving into cloud architectures. Here's a snapshot of my profile:
+I'm a Software Engineer with a passion for creating robust web and mobile applications. I specialize in both backend and frontend technologies, and I love diving into cloud architectures.
 
 ### 🔧 Skills
 
